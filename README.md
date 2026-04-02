@@ -46,7 +46,8 @@ The application accepts project files and helps answer questions such as:
 - CI pipeline with lint/test bootstrap
 
 ### Planned
-- LLM integration (Gemini / OpenAI)
+- LLM orchestration
+- Gemini / OpenAI integration
 - pgvector support for semantic retrieval
 - PDF report export
 - authentication and multi-user history
@@ -83,6 +84,13 @@ Future evolution:
 ```
 
 ---
+
+
+## Product Preview
+
+![Project demo](docs/images/demo.gif)
+
+This animation illustrates the expected product flow: document upload, cross-validation, and question answering over the latest project analysis.
 
 ## Tech Stack
 
